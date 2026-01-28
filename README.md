@@ -1,6 +1,5 @@
 
 # User-Based Voice Identification using TinyML
-
 This project implements a real-time voice-based speaker identification system using
 Edge Impulse and Arduino Nano 33 BLE Sense.
 
@@ -30,4 +29,4 @@ Edge Impulse and Arduino Nano 33 BLE Sense.
 - User authentication
 
 ## Author
-Your Name
+mohammed fahad
